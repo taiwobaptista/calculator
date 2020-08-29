@@ -1,0 +1,233 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container1{
+    width: 98%;
+    height: 200px;
+    background-color: darkslategrey;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+
+/* container2 starts here */
+ #container2{
+    margin-left: 13px;
+} 
+
+#multiply{
+    width: 24.7%;
+    background-color: orange;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+}
+
+#divide{
+    width: 24.7%;
+    background-color: orange;
+    color: white;
+     height: 70px;
+     text-align: center; 
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+#minus{
+    width: 24.7%;
+    background-color: orange;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+#add{
+    width: 24.7%;
+    background-color: orange;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+    
+}
+
+
+
+/* container 3 begins */
+#container3{
+    margin-left: 13px;
+}
+
+
+#decimal{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    
+}
+
+#nine{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+     text-align: center; 
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+#eight{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+#seven{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+
+/* container4 starts here */
+#container4{
+    margin-left: 13px;
+}
+
+
+#six{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+}
+
+#five{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+     text-align: center; 
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+#four{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    margin-right: 0px;
+    margin-left: -4px;
+}
+
+#three{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+
+/* container5 statrs here */
+#container5{
+    margin-left: 13px;
+   
+}
+
+
+#two{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+}
+
+#one{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+     text-align: center; 
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+#zero{
+    width: 24.7%;
+    background-color: darkgray;
+    color: white;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+    margin-right: 0px;
+}
+
+#equal{
+    width: 24.7%;
+    background-color: green;
+    color: black;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+    margin-left: -4px;
+}
+
+
+/* container6 starts here */
+#container6{
+    margin-left: 13px;
+}
+
+#clear{
+    width: 24.7%;
+    background-color: red;
+    color: black;
+     height: 70px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 30px;
+}
